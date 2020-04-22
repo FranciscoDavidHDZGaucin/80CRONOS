@@ -1,0 +1,67 @@
+/*
+********	 INFORMACION ARCHIVO ***************** 
+	Nombre  Archivo : cronos_index.css 
+ 	Fecha  Creacion :  15/12/2016
+	Descripcion  : 
+                Estilos para  Todos los  indexs  de la  plataforma  de
+                Crononos.
+	Modificado  Fecha  : 
+
+
+*/
+/* 
+    Created on : 15/12/2016, 05:49:51 PM
+    Author     : fhernandez
+*/
+html,body{
+    width: 100%;
+    height: 100%;
+}
+/***Definimos la Imangen de  Fondo ****/
+body{
+  width: 100%;
+  height: 100%;
+  background-image:url("fon/foto_fondo_retina.jpg");
+  background-position: top center;
+  background-size: cover;
+}
+/*Estilo de  la ventana del  modulo*/
+.tile{
+background: rgba(234,245,229,0.69);
+background: -moz-linear-gradient(left, rgba(234,245,229,0.69) 0%, rgba(249,252,248,0.69) 0%, rgba(101,173,67,0.69) 0%, rgba(101,173,67,0.53) 76%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(234,245,229,0.69)), color-stop(0%, rgba(249,252,248,0.69)), color-stop(0%, rgba(101,173,67,0.69)), color-stop(76%, rgba(101,173,67,0.53)));
+background: -webkit-linear-gradient(left, rgba(234,245,229,0.69) 0%, rgba(249,252,248,0.69) 0%, rgba(101,173,67,0.69) 0%, rgba(101,173,67,0.53) 76%);
+background: -o-linear-gradient(left, rgba(234,245,229,0.69) 0%, rgba(249,252,248,0.69) 0%, rgba(101,173,67,0.69) 0%, rgba(101,173,67,0.53) 76%);
+background: -ms-linear-gradient(left, rgba(234,245,229,0.69) 0%, rgba(249,252,248,0.69) 0%, rgba(101,173,67,0.69) 0%, rgba(101,173,67,0.53) 76%);
+background: linear-gradient(to right, rgba(234,245,229,0.69) 0%, rgba(249,252,248,0.69) 0%, rgba(101,173,67,0.69) 0%, rgba(101,173,67,0.53) 76%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eaf5e5', endColorstr='#65ad43', GradientType=1 );
+}
+/*Estilo del Boton  de cada  entrada  a  modulo */
+.btn-block{
+    background: rgba(142,223,104,1);
+background: -moz-linear-gradient(left, rgba(142,223,104,1) 0%, rgba(142,223,104,1) 17%, rgba(142,223,104,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(142,223,104,1)), color-stop(17%, rgba(142,223,104,1)), color-stop(100%, rgba(142,223,104,1)));
+background: -webkit-linear-gradient(left, rgba(142,223,104,1) 0%, rgba(142,223,104,1) 17%, rgba(142,223,104,1) 100%);
+background: -o-linear-gradient(left, rgba(142,223,104,1) 0%, rgba(142,223,104,1) 17%, rgba(142,223,104,1) 100%);
+background: -ms-linear-gradient(left, rgba(142,223,104,1) 0%, rgba(142,223,104,1) 17%, rgba(142,223,104,1) 100%);
+background: linear-gradient(to right, rgba(142,223,104,1) 0%, rgba(142,223,104,1) 17%, rgba(142,223,104,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8edf68', endColorstr='#8edf68', GradientType=1 );
+}
+/*Subtitulo de los  enlaces  a los  modulos*/ 
+p{
+    font-family: inherit;
+    font-size: 12px;
+    color:  #40ff00;
+}
+/*Titulo  Principal De  cada  uno de los  modulos */
+h3{
+    color: white;
+    font-size: 16px;
+    font-style: inherit;
+}
+h2.plan{
+    color: white;
+     font-size: 38px;
+    font-style: inherit;
+    
+}

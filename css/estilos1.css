@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Hoja de estilos*/
+
+
+
+.formato_tabla {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000066;
+}
+
+.texto_resaltado {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000066;
+}
+.texto_resaltado2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000066;
+}
+
+
+p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+
+.bonificacion {
+	background-color: #C4C4FF;
+}
+
+.formato_tabla_bonificacion {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000066;
+	background-color: #C4C4FF;
+}
+
+.formato_tabla_titulo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000066;
+	
+}

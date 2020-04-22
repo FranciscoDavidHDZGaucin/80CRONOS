@@ -1,0 +1,22 @@
+.container {
+	min-height: 10em;
+	display: table-cell;
+	vertical-align: middle }
+
+#center {
+position: absolute;
+top:0;
+left:0;
+right:0;
+bottom:0;
+margin: auto;
+height: 600px;
+width: 1400px;
+
+box-shadow: 0 0 4px rgba(0,0,0,.3);
+}
+.centrado{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}

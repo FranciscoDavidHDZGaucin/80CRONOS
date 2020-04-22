@@ -1,0 +1,49 @@
+
+
+/*
+********	 INFORMACION ARCHIVO ***************** 
+	Nombre  Archivo : pod_est.css
+ 	Fecha  Creacion : 03/05/2017 
+	Descripcion  : 
+                Escrip  Contenedor del estilo 
+                para  que pueda   funcionar  la  divicion de productos
+        
+  */
+
+#header .header-top {border-bottom:50px solid #5D6A87;}
+	#top-categ span,
+	#tptnmobilemenu .toggler {background-color:#2AC97A;}
+	.blockcart {background-color:#F5535E;}
+	.product-title a {color:#105BD5;}
+	.product-price-and-shipping .price,
+	.product-price {color:#F13340;}
+	li.new {background-color:#2AC97A;}
+	li.discount,
+	li.on-sale {background-color:#F5535E;}
+	.btn-primary {background:#FF9F00;}
+	.tptncarousel{background:#fff;border:1px solid #ddd;margin-top:30px;position:relative;overflow:hidden}
+	.tptncarousel h4{border-bottom:1px solid #e5e5e5;font-size:15px;margin:0;padding:15px 60px 15px 15px;text-transform:uppercase}
+	.tptncarousel .prodcrsl{overflow:hidden}
+	.tptncarousel .owl-wrapper{display:none;position:relative;-webkit-transform:translateZ(0);-moz-transform:translateZ(0);-ms-transform:translateZ(0)}
+	.tptncarousel .owl-item{float:left;border-right:1px solid #e5e5e5}
+	.tptncarousel .product-miniature{float:none;padding:0;width:auto}
+	.tptncarousel .owl-controls{position:absolute;top:15px;right:15px}
+	.tptncarousel .owl-controls .owl-buttons div{color:#aaa;cursor:pointer;font-family:Material Icons;font-size:18px;float:left;transition:all .5s}
+	.tptncarousel .owl-controls .owl-buttons div:hover{color:#333}.tptncarousel .owl-controls .owl-prev{margin-right:10px}
+
+	.tptncarousel .owl-controls .owl-prev{margin-right:10px}.tptncarousel .owl-controls .owl-prev:before{content:"\E5C4"}.tptncarousel .owl-controls .owl-next:before{content:"\E5C8"}.tptncarousel .no-products{color:#888;font-size:14px;margin:0;padding:15px}#tptnbrands .brand-item{padding:15px;text-align:center}#tptnbrands a:hover img{opacity:.6}#tptnmobilemenu{position:absolute;left:15px;z-index:101}#tptnmobilemenu .toggler{font-size:24px;color:#fff;cursor:pointer;text-align:center;height:50px;line-height:50px;width:50px}#tptnmobilemenu .toggler:after{font-family:Material Icons;content:"\E5D2"}#tptnmobilemenu .toggler.active:after{content:"\E5CD"}#tptnmobilemenu .mobile-menu{background:#fff;border-left:1px solid #ddd;border-right:1px solid #ddd;display:none;position:absolute;left:0;top:50px;width:300px}
+
+
+	#notifications ul{margin-bottom:0}.product-flags li{color:#fff;font-size:12px;padding:4px 8px;cursor:default;position:absolute;top:15px;z-index:100}.product-flags li.new{left:15px}.product-flags li.discount{right:15px}.product-flags li.on-sale{left:15px;top:40px}.product-flags li.online-only{background:#888;left:15px;top:65px}.product-flags li.pack{background:#888;left:15px;top:90px}#left-column .block-column{background:#fff;border:1px solid #ddd;margin-top:30px}#left-column .block-column h4{border-bottom:1px solid #e5e5e5;font-size:15px;padding:14px 15px;margin:0;text-transform:uppercase}
+
+	.product-miniature .product-description{border-top:1px solid #e5e5e5;padding:15px 0 0}.product-miniature .product-title{font-size:13px;font-weight:400}
+
+	.product-miniature .thumbnail-container:hover .highlighted-informations{display:block}.product-miniature .thumbnail-container:hover .highlighted-informations.no-variants{display:none}.product-miniature img{vertical-align:top}.product-miniature .product-description{border-top:1px solid #e5e5e5;padding:15px 0 0}
+	.product-miniature .product-title{font-size:13px;font-weight:400}.product-miniature .product-title a:hover{color:#888}.product-miniature .product-price-and-shipping{margin:10px 0 0;font-size:15px}.product-miniature .product-price-and-shipping span{margin:0 2px}.product-miniature .product-price-and-shipping .regular-price{color:#aaa;text-decoration:line-through}.product-miniature .highlighted-informations{background:hsla(0,0%,100%,.8);position:absolute;bottom:75px;display:none;width:100%;padding:10px 0;text-align:center}.product-miniature .highlighted-informations .color{margin:0 3px;vertical-align:middle}.pagination{margin-top:0;display:block}.pagination>div:first-child{line-height:2.5rem}.pagination .page-list{border:1px solid #ddd;float:right}.pagination .page-list li{border-left:1px solid #ddd;float:left}.pagination .page-list li:first-child{border-left:none}
+
+
+
+	.product-flags li{color:#fff;font-size:12px;padding:4px 8px;cursor:default;position:absolute;top:15px;z-index:100}.product-flags li.new{left:15px}.product-flags li.discount{right:15px}.product-flags li.on-sale{left:15px;top:40px}.product-flags li.online-only{background:#888;left:15px;top:65px}.product-flags li.pack{background:#888;left:15px;top:90px}
+
+
+	.product-flags li{color:#fff;font-size:12px;padding:4px 8px;cursor:default;position:absolute;top:15px;z-index:100}.product-flags li.new{left:15px}.product-flags li.discount{right:15px}.product-flags li.on-sale{left:15px;top:40px}.product-flags li.online-only{background:#888;left:15px;top:65px}.product-flags li.pack{background:#888;left:15px;top:90px}

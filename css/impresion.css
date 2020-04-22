@@ -1,0 +1,12 @@
+/* 
+    Document   : impresion
+    Created on : 27/10/2014, 03:09:13 PM
+    Author     : egonzalez
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.impresion-oculta{ 
+   visibility:hidden; 
+   display: none; 
+} 
