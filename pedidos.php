@@ -7,7 +7,7 @@ require_once('header.php');
    require_once('Connections/conecta1.php');
 
    require_once('_FILES_ORD/_OBJ_ORD.php');
-/// mssql_select_db("AGROVERSA");
+/// mssql_select_db("AGROVERSA"); HOLA :3
 
 define('MB', 1048576);
 $folio = folio_pedido($_SESSION["usuario_agente"]);
